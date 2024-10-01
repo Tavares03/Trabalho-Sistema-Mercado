@@ -110,10 +110,3 @@ Calcula e exibe o total da compra, esvaziando o carrinho ao final.
 infoptroduto: imprime as informações dos produtos cadastrados pelo usuário.
 temNoCarrinho: verifica se um produto já está no carrinho.
 pegarProdutoPorCodigo: retorna um ponteiro para um produto correspondente ao código fornecido.
-
-
-
-
-Não compartilhe informações confidenciais. Os chats podem ser revisados e usados para treinar nossos modelos. Saiba mais
-
-
